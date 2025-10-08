@@ -1,0 +1,1932 @@
+JMSTechHome_42_Demo_10_am_IST_Saturday_07_10_2023
+
+Please join my meeting from your computer, tablet or smartphone.
+https://meet.goto.com/555071509
+You can also dial in using your phone.
+Access Code: 555-071-509
+United States: +1 (646) 749-3122
+- One-touch: tel:+16467493122,,555071509#
+
+
+Get the app now and be ready when your first meeting starts:
+https://meet.goto.com/install
+
+
+"Hey everyone, I just wanted to update you on our upcoming Demo and New Batch:
+
+1. Demo Session: Saturday, October 07th, at 10 a.m.
+2. New Batch Start Date: Monday, October 9th, at 6:30 am.
+I look forward to seeing you there! 😊📅🕥"
+
+Don,t miss the session.
+
+Use Below link to join the Demo session.
+
+https://meet.goto.com/555071509
+
+We are new tenants at SVB, and I want to extend my sincere apologies for any inconvenience caused by the ropes we tied.
+We were unaware of the rules regarding this matter, and I genuinely regret any disruption it may have caused.
+I feel very sad without information or asking someone to remove the rope while clothing on it.
+
+one week 6.30am to 7.45
+4.5 to 5 months
+monday to friday --> devops
+saturday --> aws and terraform
+
+
+Agenda:
+------
+1. what is DevOps?
+2. DevOps introduction?
+3. what is SDLC ? Agile vs DevOps
+4. DevOps Tools and technologies
+5. DevOps History.Devops Advatages
+6. Understanding the DevOps movement.
+7. The DevOps life cycle – it's all about “continuous”
+8. Learning procedure of DevOps
+9. where we need to start devops.
+10. what are the prerequisites to learn DevOps
+11. what are the topics will cover in or DevOps course
+12. overall brief discussion on each and every devops tools 
+end to end tools 
+
+DevOps --> procedure | methodology | culture --> software delivery on very fast
+------
+not technology 
+its not a tool 
+
+is it good | package
+-----------
+
+java      __> DevOps
+scala
+python
+android
+ios
+bigdata
+ml
+ai
+ruby 
+blabla   --> DevOps
+
+
+linux admins
+system admins
+networking eng        --> DevOps
+monitoring 
+cloud eng 
+production l1 l2 l3 
+
+1 *5 --> 10
+1*7
+10 --> 70LPA 
+
+DevOps 
+------
+linux commands | shell script
+scm 
+---
+git
+github 
+
+CI/CD
+--
+Jenkins / Gthub Actions
+ maven   --> Build 
+ sonarqube --> Staic code
+ nexus/jfrog --> artifcatory repo
+ junit result --> test cases
+ Apache Tomcat --> web server
+
+Configuration
+-------------
+ansible --> 
+container
+--------
+Docker  --> image --> push --> nexus/jfrog/ECR/private
+kubernetes
+mornitoring
+----------
+prometheus
+grafana
+ELK 
+
+IAC
+---
+Terraform 
+ 
+ mobaexterm , nginx , winscp , apache2 , putty , puttygen
+ssl, https 
+
+AWS 
+---
+AWS
+---
+EC2
+IAM
+S3
+Cloudfront
+elastic beanstalk 
+ELB 
+Autoscalling
+SNS
+RDS
+Cloudwatch
+elasticache
+elasticsearch/openserach
+Route53 
+ECR
+EKS (kuberentes ) --> EKSCTL, Kops, Console, Terraform 
+ECS 
+CloudTrail 
+CIDR
+VPC 
+lambda
+parameter store
+certificate manager 
+AWS CLI 
+AWS system manager
+EBS
+EFS
+
+ArgoCD
+Helm 
+hashicrop Vault 
+ 
+"Hey everyone, New Batch Starts From Tomorrow at 6.30am IST"
+
+Next one week free sessions use the same link to join.
+
+Monday, October 9th, at 6:30 am.
+
+Use Below link to join the Demo session.
+
+https://meet.goto.com/555071509 
+
+I look forward to seeing you there! 😊📅🕥"
+
+
+DevOps
+SRE
+TechOps  pipeline automation
+SysOPs
+MLOps
+
+production 
+SRE            SRE   DevOps    NOC, DevOps   
+DevOps
+dev
+
+
+"Hey everyone, Join tomorrow session at 6.30 am IST:
+
+Use Below link to Join tommrow session at 6:30 am IST 
+I look forward to seeing you there! 😊📅🕥"
+Agenda:
+-------
+1. What is cloud computing 
+2. Cloud computing chararecteristics
+3. Clous Computing Deployment Models
+4. Clloud Computing Servcie Models
+5. Create free AWS account
+6. AWS Global infra explanation
+Don,t miss the session.
+
+Use Below link to join the Demo session.
+
+https://meet.goto.com/555071509
+
+Agenda: 
+
+
+Cloud 
+-----
+
+AWS
+Azure
+GCP
+Alibaba
+oracle cloud
+IBM cloud
+digital ocean 
+Linode
+E2E 
+
+AWS 
+---
+mumbai
+hydrabad
+ region (ap-south-1)
+   AZ (Availability zones) 
+   3 ap-south-1a, ap-south-1b, ap-south-1c
+usage   
+  
+t2.medium  $0.0496  $0.0464
+
+m4.16xlarge $3.36  $3.20
+
+credit card , cc --> 2rs --> credit
+aws --> 1 year free
+ec2 --> t2.micro --> 750 hours are free montly 
+
+t2.micro  --> 24
+t2.micro  --> 24 
+t2.medium --> kuberentes, sonarqube , nexus , jenkins
+
+$0.0496 -> 4.13
+
+create aws account 
+
+create an ec2 instance 
+
+instance --> server
+
+what is the ip address?
+13.233.60.189               Note: this ip will change when you stop and start the instance 
+What is the username?
+ec2-user                              AMI--> Amazon linux
+What is the port number? 
+ssh 22
+What is password/key?
+pem
+
+ssh -i "key.pem" username@ip 
+
+ssh tools 
+---------
+putty , sputty, mputty 
+
+putty --> it wont support the pem file , Putty need a ppk fotmat
+
+pem --> ppk 
+
+puttygen 
+
+mobaexterm
+
+ssh -i "key.pem" username@ip 
+
+ssh -i jmsth42.pem ec2-user@13.233.60.189
+
+
+
+"Hey everyone, Join tomorrow session at 6.30 am IST:
+
+Use Below link to Join tommrow session at 6:30 am IST 
+I look forward to seeing you there! 😊📅🕥"
+
+Agenda 12-10-2023:
+-------
+1. creating ec2 instace connect with mobaexterm
+2. write on notepad 100+ linux commands
+3. execute few linux cpmmands with scenario based.
+
+Agenda 13-10-2023:
+------------------
+1. Real time logs explanation
+2. realtime webservice working example
+3. Http status codes
+4. troubleshooting Realtime log files with AWK, EGREP, Unique, WC commands
+
+Don,t miss the session.
+
+Use Below link to join the Demo session.
+
+https://meet.goto.com/555071509
+
+
+unix  --> kernal --> c
+
+alpine, busybox
+
+unix --> linux, ubuntu, amazon linux, redhat(coreos), suse , centos
+
+centos --> yum
+ubuntu --> apt
+
+pwd
+touch 
+cd 
+rm
+mkdir 
+rmdir 
+mv 
+cp 
+scp 
+ls 
+ll
+cat 
+vi
+vim
+gedit 
+nano 
+ps 
+chmod 
+chown 
+date 
+cal 
+sed 
+awk 
+grep
+egrep
+head
+tail
+more
+less 
+useradd
+adduser 
+groupadd
+addgroup 
+deluser
+ssh
+uptime
+df 
+du 
+free
+top 
+lsof
+htop
+locate
+find
+uname
+nestat
+ifconfig 
+hostname 
+history 
+kill
+nohup 
+bg
+fg
+nice
+renice 
+telnet 
+ping 
+wget
+curl 
+who
+whoami
+what
+w
+wc
+whereis
+dmesg 
+rpm
+apt
+apt-get
+yum
+apk
+echo 
+base64
+dmidecode
+systemctl
+servcie
+chkconfig
+clear
+exit 
+reboot
+shutdown 
+fdisk
+gzip 
+gunzip 
+tar
+finger
+passwd
+getent
+pwconv
+crontab
+at
+grpconv
+ssh-keygen
+ssh-copy-id
+lsblk 
+sudo 
+su
+iostat
+sar
+tree
+tee
+iptables
+firewall-cmd 
+ln 
+ln -s
+journalctl
+mount
+unmount
+nslookup
+tcp-dump 
+strace
+tracetroute
+export 
+setenv
+env 
+uniq
+cut
+sort 
+diff 
+umask 
+file 
+man 
+--help
+install
+cgroup
+acl 
+mpstat
+prstat
+alias
+fstab 
+basename
+exec
+xarag
+visudo
+seq
+sleep
+who
+
+ssh-keygen
+
+adduser 
+
+ ssh -i "linux-41.pem" ec2-user@ec2-13-233-125-224.ap-south-1.compute.amazonaws.com
+
+- rw- --- ---
+r -> read  --> 4
+w --> write  --> 2
+x --> executable --> 1
+- 6 0 0
+
+775 for folder --> by default 
+664  --> for file --> by default 
+
+.ssh --> 700
+
+chmod 
+r -> read  --> 4
+w --> write  --> 2
+x --> executable --> 1
+
+rwx r-x r-x
+755
+- rw- r-- r--
+644
+
+umask 022
+
+777
+022 (-)
+---
+755
+
+666
+022
+----
+644
+
+777
+002
+---
+775
+
+rwx rwx r-x
+775
+
+if [ $UID -gt 199 ]
+
+if [ 1000 -gt 199 ] --> true or false 
+
+
+how install softwares
+how to check port is listen 
+how to enable the port in security groupadd
+how to get permission for sudo user 
+
+httpd --> web server
+down tar file using wget 
+untar 
+cp 
+rm 
+scp 
+
+amazon linux --> yum 
+ubuntu --> apt 
+
+sudo yum install httpd
+sudo yum install httpd -y
+sudo systemctl status httpd
+sudo service httpd status
+
+ssh --> 22
+httpd --> 80 
+nginx --> 80 
+
+curl 
+wget 
+
+scp 
+scp -i "mykey.pem" myapp.tar.gz ec2-user@ip:/home/ec2-user/
+
+lnux troubleshooting commands 
+df
+du
+free
+top
+htop
+w 
+uptime 
+
+telnet 
+ping 
+
+soft link vs hard link 
+crontab 
+
+ln file1 file2
+ln -s file3 file4
+
+ln file1.txt h_file1.txt 
+ln -s file2.txt s_file2.txt
+
+cron --> scheduler --> we need to schedule a task on a perticular time 
+
+* * * * *
+                 *      *        *          *         *
+               min    hour      dom       moy        dow 
+			   0-59   0-23      1-31      1-12       0-6
+hello.sh 
+#!/bin/bash
+echo "hi guys good morning" 
+
+write a crontab for every day at 7am every month and every year every day 
+
+nohup 0 7 * * * sh /home/ec2-user/hello.sh >> result.txt 2>&1 &
+1 7 * * * sh /home/ec2-user/hello.sh >> result.txt &
+
+
+sh /home/ec2-user/hello.sh >> result.txt &
+
+ssh -i "mykey.pem" username@ip 
+ssh shortcut
+
+.sh --> shell script 
+.py 
+.yaml or yml --> yaml 
+.tf 
+.js
+.css
+.html
+.java
+.scala
+.groovy 
+
+Hello.sh 
+
+#!/bin/bash
+echo "Good Morning Guys"
+echo "Good Morning Guys"
+echo "Good Morning Guys"
+echo "Good Morning Guys"
+echo "Good Morning Guys"
+
+
+#!  --> shebang , hashbang, hashpound
+
+kernal 
+
+10+20 = 30 
+int 
+char 
+float
+string
+
+1
+3 
+
+10.0
+
+dynamic variable passing 
+user input passing 
+vi short cuts 
+
+user input passing 
+help command 
+if condition 
+
+if else 
+
+if condition
+------------
+if [condition] ; then
+ statements
+ statements
+fi
+
+if [condition] ; then
+   statements
+   statements
+ else
+  statements 
+fi
+
+$#
+$?
+$*
+
+1. write a program reverse your input 
+2. write a program for student marks 
+   1. if student get a marks less then 35 if fail 
+   2. if student get a marks greaterthan 35 to 59 the student got 2 nd class 
+   3. if student get a marks greaterthan 60 to 74 the student got 1 st class
+   4. if student get a marks greaterthan or equal 75 the student got distinction 
+3. write a script the mobile number lengh less than 10 numbers invalid 
+   mobile number equal 10 its a valid number 
+   if it smore than 10 then inta invalid 
+
+if 
+
+if else
+
+if else if else ....
+switch
+
+10000 --> vivo 
+
+20000 --> appo 
+
+40000 --> samsung 
+
+50000 --> iphone
+
+-eq 20000 || -le 19999
+
+while loop
+enhanced for loop 
+for loop 
+real usecases of while loop 
+
+string concatination 
+substrings
+write a script  to create file with date and time 
+check the the file is avaialable or not if not create a file
+check the the directory is avaialable or not if not create a file
+functions
+
+
+file -> lines  --> read all line till of the file 
+
+while [condition]   
+do
+------
+done
+
+mathematical for 17 
+
+17*10
+17*20
+
+#!/bin/bash
+
+while read line 
+do
+ echo $line ----------;
+
+ 
+done < inputfile.txt;
+
+#!/bin/bash
+filename=$1
+while read line; do
+# reading each line
+echo $line
+done < $filename
+
+#!/bin/bash
+filename=$1
+while read line
+do
+# reading each line
+echo $line | grep -i devops >> result.txt
+#echo $data > result.txt
+
+done < $filename
+
+
+for(( intialvalue;condition;inc|dec ))
+do 
+....
+done 
+
+ for variable in .....:
+ do 
+ ....
+ done 
+ 
+ enahanced for loop 
+ increament or decrement --> for loop 
+ 
+ one example 
+ 
+ #!/bin/bash
+echo "enter the number to generate a mathematical table"
+read number
+counter=1
+while [ $counter -le 10 ]
+do
+ result=$(( number * counter ))
+ echo "$number * $counter = $result"
+ counter=$((counter + 1))
+done
+
+1--40 --> enhanced for loop 
+
+1*1=1
+1*10=10
+
+-d 
+-f 
+-z 
+
+#!/bin/bash
+if [ -z "$1" ]; then
+        echo "USAGE: ./scriptname.sh <arg1>"
+        exit 1
+fi
+mydate=$(date +"%Y-%m-%d-%H-%M-%S")
+fname=$1
+if [ -f "$fname" ]; then
+        echo "$fname file exist"
+else
+        echo "$fname file is not exist"
+        echo "creating $fname file"
+        touch "$fname_$mydate.txt"
+        echo "created $fname file successfully"
+fi
+
+string contactination
+substrings 
+funtions     --> methods 
+functions with arg 
+
+monday --> git 
+
+ttps:
+ello.com:
+43
+if [ 
+((
+${
+
+functions are used reusable 
+
+more redable 
+
+public static int add(int a, int b){
+result a+b;
+return result
+}
+
+add(10,10)
+add(20,30)
+add(100,49)
+
+89
+3343453
+3543433
+madhu 
+uhdam
+1. print the given number/string in reverse without using function
+2. find given string is palindrome or not 
+3. chek the nginx is install or not,
+   if not install install nginx
+   check process is running or not 
+   if not running start nginx service.
+4. check given ip is valid or not 192.78.89.1 true 
+   1924.78.89.1 --> false
+   fa.78.1.2 --> false
+   8.98.1 --> false 
+   0.0.0.0 --> true 
+
+interview questions 
+
+Git session from monday 
+
+we have a session this saturday  SNS, RDS , elasticache , elastic beanstalk
+
+ec2, autoscalling,  elb, sns 
+
+vi dasfnasfsafasfas.sh
+
+DevOps Course 
+-------------
+Git
+Github 
+SCM
+--
+source code management tools 
+
+pipeline as a code 
+scripts 
+terraform
+dockerfile
+kubernetes 
+
+version control system 
+ centralized version control system 
+ Distributed version control system
+
+ CVCS
+   SVN
+ DVCS
+   GIT
+ 
+SVN
+----
+1. Its a centralized version control system
+2. Internet is mandatory for all operations
+3. Single point of failure 
+4. All commands are executed on remote repo
+
+GIT
+---
+1. Its a Distributed version control system
+2. Internet is mandatory for  few operations like pull,fetch,clone,push
+3. Its not Single point of failure because of copy of repository is available in local
+4. few commands are executed on remote repo pull,fetch,clone,push remainig will execute on local add,commit,diff,log,status
+
+Git is cli tool 
+  remote repo --> Github , Bitbucket, Gitlab
+  
+GIT 
+
+sudo yum install git -y
+git --version
+
+vi ~/.gitconfig
+
+git config --global --edit
+
+
+1. Create  one empry folder 
+    mkdir first
+2. go inside the folder 
+   cd first
+3. create a simple file 
+   vi sample.txt
+4. need to push code remote repo 
+   git add  (the commit throw the error -->fatal: not a git repository (or any of the parent directories): .git)
+5. First we need conert our into git project (git status)
+   git init
+6. need to push code into commit area (git status)
+   git add . (git status)
+   git commit -m "some message"  (git status) 
+   git log   
+7. need to push code to remote repo 
+   git push origin master (it will throw the error --> fatal: 'origin' does not appear to be a git repository)
+8. check weeathere you added remote origin or not
+    git remote -v 
+9. you need to create remote repo (github)
+   if dont have an github accout create new one 
+   then create a new repo 
+10. add remote repo origin to your local 
+    git remote add origin <url>
+11. need to push code to remote repo
+    git push origin master
+
+
+git config --global --edit
+
+
+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
+password less 
+
+git remote add origin https://github.com/jmstechhome25/first.git
+git remote add origin git@github.com:jmstechhome25/first.git
+
+git add .
+git commit  -m "message"
+git push origin master
+
+1. How to create a git project from loacal
+2. setup passwordless communication to github repo 
+3. How to create a git project from remote repo 
+4. How to download the code from remote repo to local 
+5. git fork 
+
+fork and clone 
+
+1. Merge conflicts 
+2. branching 
+
+
+git branch
+
+git branch -a 
+master 
+git branch <branchname>
+git checkout <branchname> 
+git checkout -b <branchname>
+git branch -d future
+
+
+git organization 
+git branching rules
+
+git tagging
+git merge vs rebase
+
+git tags 
+--------
+
+the version of the release 
+1. lightweight tag 
+2. annotated tag 
+
+git tag v1.0 
+git tag -a -m "message" v2.0 
+
+ git tag v1.2
+ git tag -a -m "this is relase month of nov" v1.3
+ git tag
+ git tag --list
+ git log --oneline
+ git push origin v1.3
+ git push origin --tags
+ gi tag v1.0 e69e5d6
+ git tag v1.0 e69e5d6
+ git log --oneline
+ git push origin --tags
+ git log
+ git tag --list
+ git tag --list -a
+ git tag -a
+ git tag -l
+ git fetch
+ git tag -l
+ git tag -d v1.3
+ git push origin -d v1.3
+
+git undoing 
+git merge  vs rebase vs cherrypick
+
+git merge  
+git merge --squash 
+git rebase 
+
+two 
+
+git cherrypick
+git pull fetch 
+how to edit commit message
+what is .gitignore
+merge multiple commits into single commit 
+git cherrypick
+--------------
+git merge
+git rebase 
+
+
+git pull and fetch 
+-------------------
+
+git fetch --> get the changes from remote repo and  keeps into local repo and not merge in working area 
+git pull --> get the changes from remote repo and  keeps into local repo and it will merge in working area 
+
+
+git pull = git fetch + git merge 
+ 
+ git hooks --> you want trigger 
+ 
+git undoing 
+-------------
+git checkout 
+
+git reset --hard HEAD~1
+git reset --soft HEAD~1
+git reset --mixed HEAD~1
+
+git revert <comitsha>
+
+
+jenkins 
+------
+  maven
+  apache tomcat
+  nexus
+  sonarqube 
+continuous integration & continous deployment 
+----------------------------------------------
+jar/war --> copy (scp) --> remote webservers 
+
+code pushed to remote --> pull --> compile --> test --> package --> deploy
+
+jenkins --> open source --> 400 + plugins are available 
+circle ci
+travisci
+bamboo 
+udeploy 
+githubactions
+gitlab 
+
+Jenkins 
+-------
+war --> deploy into any web server like tomcat 
+hudson 1.0 --> CI --> oracle --> Jenkins 2.0 --> CI/CD 
+8080 --> inbuilt webserver --> jetty 
+java lanhuage 
+java 1.8 version is not support --> java 1.11 jdk  --> java 1.17
+java 1.6 it wont work 
+
+war --> deploy into webserver 
+war --> java -jar jenkins.war 
+install any linux os   --> real time --> 30%  
+run as a docker container --> real time ---> 20%
+run as a kubernetes pod  --> real time  --> 50%
+
+jenkins any language ci/cd 
+
+.hpi 
+
+how to create a freestyle project
+how to build the project
+how we can see the output in console 
+integrate with github clone the github project 
+create a simple helloworld java project and push the code into github 
+clone the java projet compile and run trough jenkins 
+
+
+HelloWorld.java
+-------------
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, World");
+    System.out.println("Hello, World");
+    System.out.println("Hello, World");
+  }
+}
+
+javac HelloWorld.java
+java HelloWorld
+
+build triggers 
+--------------
+3 typpes 
+ 1. build periodically   --> pull based mechanism
+ 2. poll scm             --> pull based mechanism
+ 3. webhook              --> push baed mechanism 
+
+build periodically : 
+------------------
+the job is trigger on a perticular time it wont looking into repo is there any changes or not 
+
+this will triggers always on a perticular time
+
+crontab 
+-------
+* * * * *
+m h d m dow
+*/1 * * * *
+poll scm
+--------
+the job is trigger on a perticular time it will trigger if there any new changes 
+
+this will triggers always on a perticular(it wait one min) time if any new changes 
+
+webhook 
+-------
+this will trigger immidiately after new changes are made 
+
+
+
+ in one hour i have made 1 commit 
+ --------------------------------
+ */1 * * * *
+build periodically --> 60 times 
+poll scm --> 1 time 
+
+
+
+
+ 
+jenkins is running your local this webhook wont work 
+
+
+ 1. build periodically   --> nigtly builds/day builds 
+ 2. poll scm             --> 10 min  dont wont add my internal urls 
+ 3. webhook              --> immidiatly 
+
+
+100 team working 
+
+install java in my local system 
+download jenkins .bat run --> wont recommend 
+jar file down laod and will use java -jar jenkins.war 
+
+jre run time 
+jdk java development kit --> . java --> compiler --> .class 
+.class --> jre 
+
+java -jar jenkins.war 
+
+java -jar jenkins.war  --httpPort=1234 
+
+web application 
+
+jar/war 
+
+build tools 
+
+maven 
+-----
+build tools
+-----------
+1. add dependencies(libs) manually 
+ lib
+ .jar  --> downalod manually and adding into your code 
+ .dll
+2. creating project structure manually
+  src 
+    main
+	test
+  lib 
+  resources 
+3. compile and run the code 
+
+1. Ant 
+2. Maven
+3. Grdale 
+grape | egg 
+
+ant maven
+ant 
+---
+build tool
+if does not have in build lifecycle 
+build.xml
+
+maven 
+----
+build tools project management tool
+it has in built life cycle 
+pom.xml 
+
+maven architecture 
+------------------
+pom.xml 
+--------
+project information 
+dependencies 
+plugins 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.saucelabs</groupId>
+	<artifactId>sauce_appium_junit</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>sauce_appium_junit</name>
+	<packaging>war</packaging>
+	<description>Sample Appium tests using JUnit</description>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+        
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.2.4</version>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<repositories>
+		<repository>
+			<id>saucelabs-repository</id>
+			<url>https://repository-saucelabs.forge.cloudbees.com/release</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
+	</repositories>
+
+
+</project>
+
+
+local repository  --> ~/.m2
+remote respository --> nexus/jfrog
+central repository --> internet
+
+maven lifecycle
+----------------
+ 	validate - validate the project is correct and all necessary information is available
+ 	compile - compile the source code of the project
+ 	test - test the compiled source code using a suitable unit testing framework. These tests should                      not require the code be packaged or deployed
+ 	package - take the compiled code and package it in its distributable format, such as a JAR.
+	
+	
+ 	verify - run any checks on results of integration tests to ensure quality criteria are met
+ 	install - install the package into the local repository, for use as a dependency in other projects locally
+ 	deploy - done in the build environment, copies the final package to the remote repository for sharing with other developers and projects.
+
+mvn package 
+mvn test 
+mvn clean 
+public static init sum(int a , int b) {
+
+int sum=a+b;
+
+return sum;
+}
+
+junit 
+------
+public static init sumTest(int a , int b) {
+
+int sum=a+b;
+
+return sum;
+}
+10,20
+asertequals(expet,output)
+asertequals(30,10)
+.xml --> redable --> redable --> test result analyser
+
+target/ testresult
+        output.war/jar
+
+mvn clean package 
+
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+
+
+integrate maven with jenkins
+build 1 simple maven project
+3 realtie code based projects 
+deploy these output we need to learn any web servers 
+apache tomcat 
+
+console 
+web application
+
+maven lifecycle
+--------------
+validate 
+compile
+test
+package
+verify
+install
+deploy
+
+mvn package 
+
+<pakaging> 
+jar 
+
+webserver
+
+apache tomcat 
+-------------
+
+ci cd 
+
+war/ jar 
+
+ear, ejb connection pool
+war --> web servers / application server (weblogic)--> apache tomcat, jetty, undertow
+executable jar file , war file file --> we no need to  install any web server --> it has inbult webservers --> micro service
+springboot (framework work) --> apache tomcat , jetty , undertow
+
+jenkins.war --> executable web application --> java -jar jenkins.war / java -jar <applicationname>.jar
+
+8080
+
+jenkins 8080 
+apache tomcat 8080 
+
+apache tomcat --> 7 8 9 
+java 
+
+8080 port
+web server 
+
+bin
+   startup.sh
+   shutdown.sh
+   catalina.sh
+   startup.bat
+   
+lib
+conf
+   tomcat-users.xml 
+        adding users, password, roles
+   server.xml 
+        port number, https 
+   
+webapps
+  All war files deploy in this folder (sample.war) --> it will extract and it creates a project 
+ manager/META-INF/context.xml weneed to white list of your app/ we can comment the <values> </values>tag
+
+apache tomcat / --> servlet contianer ( catalina )
+
+apache 2/httpd ( static contet html ) reverse proxy
+nginx ( static contet html ) reverse proxy
+
+integrate tomcat into jenkins 
+----------------------------
+
+first we need to install the plugin --> Deploy to container
+
+/var/lib/jenkins/workspace/spring3-mvc-maven-xml-hello-world/target/spring3-mvc-maven-xml-hello-world-1.0-SNAPSHOT.war
+**/target/*.war
+
+https://drive.google.com/drive/folders/11r559LdLdZ7GmMdGbwLsv_ZtE7vaq-Es?usp=sharing 
+
+0.0496*10 
+
+
+junit integration --> for get the test result 
+upstream/downstream job --> dependency
+dashboard view --> our great managers
+pipeline view --> dpencency project can see the flow at one place 
+master/slave --> for reduce burdon on master node
+email notification 
+discard old build 
+parameter builds 
+nexus
+sonarqube 
+pipeline 
+
+SOAP --> xml
+RESTFull --> http --> json 
+
+test result analyser 
+Build Pipeline Plugin
+Delivery Pipeline Plugin
+
+dashboard view
+master/slave
+email notification 
+
+email notification  --> mailer --> its suggested while install jenkins SMTP
+extended email notitification 
+
+
+if the build got failed multiple times you will receive a mail
+
+after immidiate success yoou will get success mail 
+
+console 
+
+attached as a file  
+setup trigger 
+custom sub 
+custom body
+
+nexus
+discard old build 
+
+
+parameter builds 
+sonarqube
+
+HOW INTEGRATE WITH NEXUS
+
+lets install nexus --> micro --> 2 GB memroy --> medium
+
+ nexus-jenkins-plugin-3.18.1 --> nexus platform plugin 
+ 
+ 
+ parameterized builds 
+ 
+ there is some scenarios you need to pass some inputs to your job 
+ 
+ what is the use of sonarqube
+ sonarqube installation 
+ 
+ string parameter 
+ 
+ github repo 
+ branches
+ tags 
+ branch based deploment 
+ tags
+ 
+ sonarqube 
+ ---------
+ 
+ int a =10;
+ 
+ t2.medium 
+ 
+ 
+ petclinic 
+ ---------
+ 
+ https://www.sonarsource.com/products/sonarqube/downloads/success-download-community-edition/
+ 
+https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.3.0.82913.zip
+
+sudo sysctl -w vm.max_map_count=262144 
+
+squ_f58f5ebed983e1beed3351d57906767e476504a5
+
+
+# Required metadata
+sonar.projectKey=java-sonar-runner-simple
+sonar.projectName=Simple Java project analyzed with the SonarQube Runner
+sonar.projectVersion=1.0
+
+# Comma-separated paths to directories with sources (required)
+sonar.sources=src
+
+# Language
+sonar.language=java
+
+# Encoding of the source files
+sonar.sourceEncoding=UTF-8
+sonar.java.binaries=target/classes
+
+sonarqube depends on quality gates
+sonar way 
+cutom quality gates --> we can make this quality gate is default 
+
+sonarqube quality gates
+
+extended email notification 
+
+
+jenkins
+-------
+pipeline
+
+
+nginx 
+----
+
+localhost --> 127.0.0.1 
+
+--> ip:80 --> localhost:9000 --> sonarqube
+
+jenkins
+-------
+pipeline
+
+freestyle jobs --> ui --> fill the values 
+when i have complex ci/cd 
+lets talk about scenario --> static data --> i want ge the data dynamically 
+
+i want read the pom.xml 
+
+post build 
+
+DSL 
+
+ Jenkinsfile
+ 
+ script based pipeline 
+ old of way writing pipeline
+ node{
+ }
+ it will take more executers to run a pipeline
+ it takes more time than declarative pipeline
+ 
+ Declarative pipeline --> hero
+ new way of writing pipeline
+ pipeline{
+ }
+ it take less exutors to run a pipeline
+ it takes less time than declarative pipeline
+ 
+ node{
+ 
+ stage('getscm'){
+  --> clone the code
+ }
+  stage('build'){
+  --> maven build
+ }
+  stage('artifactory'){
+  --> push artifact to nexus
+ }
+  stage('Deploy'){
+  --> depploy into tomcat
+ }
+ }
+ 
+ Declarative pipeline 
+ 
+ pipeline{
+ 
+ agent any;
+ 
+ stages{
+  stage('getscm'){
+    steps{
+  --> git clone
+	}
+  }
+    stage('build'){
+    steps{
+	    mvn clean package
+	}
+  }
+    stage('artifactory'){
+    steps{
+	    nexusartifactuploader().....
+	}
+  }
+    stage('deploy'){
+    steps{
+	    curl .... http://....
+	}
+  }
+ }
+ 
+ }
+ 
+ 
+ 
+ 2 ways to execute 
+ DSL --> Groovy
+ 1. groovy box 
+ 2. Jenkinsfile
+ 
+ echo "hello"
+ 
+ script based
+ 
+node{
+stage('say hi'){
+echo "hello guys"
+}
+stage('say goodmorning'){
+echo "hello goodmorning guys"
+}
+stage('say bye'){
+echo "Bye guys"
+}
+}
+
+10 jenkins --> 
+multi freestyle projects we can execute using pipeline
+github integration with pipeline
+jenkins github maven pipeline 
+jenkins github maven tomcat pipeline 
+jenkins github maven nexus tomcat pipeline
+jenkins github maven nexus sonarqube tomcat pipeline  --> assignment
+
+github actions --> ci/cd 
+
+sudo sysctl -w vm.max_map_count=262144  
+
+sonar.jdbc.dialect=mssql
+
+
+sonar.projectKey=spring-boot-maven-generate-code-coverage-report-jacoco 
+sonar.projectName=spring-boot-maven-generate-code-coverage-report-jacoco 
+sonar.projectVersion=1.0
+sonar.sources=src/main/java
+sonar.tests=src/test/java
+sonar.java.binaries=target/classes
+sonar.junit.reportsPath=target/test-reports
+sonar.java.coveragePlugin=jacoco
+sonar.java.test.binaries=target/test-classes
+sonar.junit.reportPaths=target/surefire-reports
+sonar.jacoco.reportPaths=target/jacoco.exec
+sonar.qualitygate.wait=true
+sonar.qualitygate.timeout=300
+sonar.coverage.jacoco.xmlReportPaths=target/jacoco-report/jacoco.xml
+
+node{
+stage('say hi'){
+echo "hello guys"
+}
+stage('say goodmorning'){
+echo "hello goodmorning guys"
+}
+stage('say bye'){
+echo "Bye guys"
+}
+}
+
+pipeline {
+
+agent any
+
+stages{
+stage('say hi'){
+steps{
+echo "hello guys"
+}
+}
+stage('say goodmorning'){
+steps{
+echo "hello goodmorning guys"
+}
+}
+stage('say bye'){
+steps{
+echo "Bye guys"
+}
+}
+}
+}
+
+multi freestyle projects we can execute using pipeline
+github integration with pipeline
+jenkins github maven pipeline 
+jenkins github maven tomcat pipeline 
+
+first --> 3
+my-app --> 7
+Business --> 2
+
+pipeline {
+
+agent any
+
+stages{
+stage('first job'){
+steps{
+build job: 'first'
+}
+}
+stage('my-app job'){
+steps{
+build job: 'my-app'
+}
+}
+stage('Business job'){
+steps{
+build job: 'Business'
+}
+}
+}
+}
+
+
+pipeline {
+
+agent any
+
+stages{
+stage(' git clone'){
+steps{
+git credentialsId: 'github_credentials_token', url: 'https://github.com/jmstechhome25/spring3-mvc-maven-xml-hello-world.git'
+}
+}
+
+}
+}
+
+pipeline {
+    agent any
+
+    tools {
+        maven "maven3"
+    }
+    triggers {
+        pollSCM '*/1 * * * *'
+    }
+    stages {
+        stage('git clone') {
+            steps {
+                  git credentialsId: 'github_credentials_token', url: 'https://github.com/jmstechhome25/spring3-mvc-maven-xml-hello-world.git'
+                  }
+                 }
+        stage('build') {
+            steps {
+                sh "mvn clean package"
+
+            }
+        }
+		stage('deploy'){
+		steps{
+		deploy adapters: [tomcat8(credentialsId: 'tomcat9_credentails', path: '', url: 'http://ec2-13-232-191-185.ap-south-1.compute.amazonaws.com:8080/')], contextPath: 'spring3-pipeline', onFailure: false, war: '**/target/*.war'
+
+		}
+	  }
+    }
+}
+
+deploy adapters: [tomcat8(credentialsId: 'tomcat9_credentails', path: '', url: 'http://ec2-13-232-191-185.ap-south-1.compute.amazonaws.com:8080/')], contextPath: 'spring3-pipeline', onFailure: false, war: '**/target/*.war'
+
+            post {
+                // If Maven was able to run the tests, even if some of the test
+                // failed, record the test results and archive the jar file.
+                success {
+                    junit '**/target/surefire-reports/TEST-*.xml'
+                    archiveArtifacts 'target/*.jar'
+                }
+            }
+
+nexus 
+email notification 
+
+git --> maven --> nexus --> tomcat --> email 
+git --> maven --> sonar --> sonarquality gates  --> tomcat --> email 
+githubactions 
+interview question
+Docker 
+
+test 
+codecoverage --> added lib in the application --> pom.xml --> jacoco and cobetura
+
+Coverage --> how much code is cover with test cases 
+
+648
+
+5 applcaition 
+
+earch more than 10 pod  --> 50
+
+20 
+
+50*20 --> 1000
+
+
+github actions 
+--------------
+bitbucket pipeline 
+gitlab ci 
+circle ci
+azure devops 
+yaml 
+
+yaml  --> indendation
+Jenkinsfile 
+
+clone --> build with maven --> tomcat
+
+pipeline 
+workflow 
+
+no if workflows we can write 
+workflows will be trigger based action trigger
+
+workflows are free but limited 
+
+workflows can run in any one os (linux,windows,mac)
+
+runners --> host machine , linux, mac os, windows 
+
+if i used in built runner for maven project --> what is the issue?
+
+maven --> pom.xml --> .m2 --> central --> .m2
+
+we can add our own self runners 
+
+how to add self runners 
+how to deploy into tomcat 
+how to create secrets 
+
+own server --> we can ssh in that we install our own version, we can see the path of output, and will take backup 
+based on instance type the build take time 
+
+self runners 
+
+runs-on: self-hosted
+
+curl  command 
+
+
+http://localhost:8080/manager/text/deploy?path=/foo
+
+
+    - name: tomcat deploy
+      run: curl -v -u admin:admin -T /home/ec2-user/actions-runner/_work/spring3-mvc-maven-xml-hello-world/spring3-mvc-maven-xml-hello-world/target/spring3-mvc-maven-xml-hello-world-1.4.war 'http://ec2-52-66-137-229.ap-south-1.compute.amazonaws.com:8080/manager/text/deploy?path=/github_action_spring&update=true'
+
+TOMCAT_PASSWORD
+
+TOMCAT_USERNAME
+
+${{ secrets.TOMCAT_USERNAME }}
+
+${{ secrets.TOMCAT_PASSWORD }}
+
+Docker (container)
+------
+
+problem
+-------
+
+ 100mb war --> new server  1 gb, 1 cpu, 20 gb disc --> installing softwares like os,java tomcat --> 
+ 
+ oracle vm, vm player, vmware --> hiperwisers --> on topop we install guest os (other os, like ubuntu,centos)
+ 
+ lot of resource wasting 
+ lot of time taking of installing softwares 
+ 
+ deploying our application very fast 
+ 
+ months --> min 
+ 
+ i want install ubuntu --> 2 gb 
+ i want install ubuntu using docker --> 70+mb
+ alpine linux 
+ i want install alpine using docker --> 5 mb 
+ 
+ container 
+ ---------
+ Docker is a containerization platform we can we build, ship and run our applciaiton with light weight resources.
+ 
+ 
+ 
+docker image (build)  --> docker image store (ship)--> run container (run)
+
+ Dockerfile
+ ----------
+# set of instructions
+FROM ubuntu:18.04
+LABEL auther
+COPY . .                       ---> docker image (build)  --> docker image store (ship)--> run container (run)
+ADD . .
+USER <username>
+WORKDIR /home/user/data
+RUN any command at build time
+VOLUME container data persistant
+EXPOSE port we are using 
+HEALTHCHECK
+ONBUILD
+ARG
+ENV
+CMD  exutables
+ENTRYPOINT java -jar jenkins.war
+ 
+ docker image store
+ -----------------
+ Dockerhub
+ private repo 
+ nexus
+ ecr --> aws  service  
+ 
+ docker architecture
+ 
+
+docker -v
+sudo docker version
+sudo docker info
+sudo docker images
+docker images
+docker serach <imagename>
+docker pull <imagename> --> if not mention any taf by default is latest
+docker pull ubuntu
+docker run ubuntu 
+docker ps
+docker ps -a
+docker ps -q
+docker ps -aq 
+docker run -it --name myubuntu ubuntu
+> ctrl p q 
+docker ps -a | grep Exited
+docker ps -a | grep Exited | awk '{print $1}'
+docker run -it --name myubuntu ubuntu
+docker exec -it <containername/containerid> /bin/bash
+docker run -it --name myubuntu1 ubuntu
+docker commit -m "my fig ubuntu jmsth42" 6a6a15cb1ee8 fig_ubuntu_jmsth42
+docker run -it --name figubuntu fig_ubuntu_jmsth42
+docker tag fig_ubuntu_jmsth42 fig-ubuntu-jmsth42:v1 
+docker logs <containername/containerid> 
+jpetazzo/clock
+docker run -it --name myclock1 jpetazzo/clock
+docker logs --tail 10 <containername/containerid> 
+docker logs -f --tail 1 035726b99ed0
+docker rm <containername/containerid> 
+docker rmi <imagename/imageid> 
+docker rm <containername/containerid> <containername/containerid>
+docker rmi <imagename/imageid> <imagename/imageid>  
+docker rm -f <runningcontainername/id>
+
+
+
+
+
+
+
+
+
+
+
+ 
